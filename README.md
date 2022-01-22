@@ -1,59 +1,27 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Tic-Tac-Toe
 
-> One paragraph statement about the project.
+> This is a basic Tic-Tac-Toe, It was build using JavaScript, CSS3 and HTML.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot]()
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- CSS, HTML, Javascript
+- Terminal, Github 
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://carloshs1994.github.io/snakeGame/)
 
 ## Authors
 
-👤 **Author1**
+👤 **Carlos HS**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [@carloshs1994](https://github.com/carloshs1994)
+- Twitter: [@hscarlos_](https://twitter.com/hscarlos_)
+- LinkedIn: [Carlos Herver]()
 
 ## Show your support
 
@@ -61,9 +29,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to Microverse
+- Inspiration [WebDevSimplified]()
 
 ## 📝 License
 
